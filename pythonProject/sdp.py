@@ -113,7 +113,7 @@ def analysis_phase(adjacency_matrix):
 # Example usage
 if __name__ == "__main__":
     # Path to your .mtx or .mtx.gz file
-    archive_path = "arc130.tar.gz"
+    archive_path = "1138_bus.mtx.gz"
 
     if ".tar." in archive_path:
         # Extract all .mtx files from the archive
